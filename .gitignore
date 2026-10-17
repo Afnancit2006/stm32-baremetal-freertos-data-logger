@@ -1,0 +1,32 @@
+# Build outputs
+build/
+Debug/
+Release/
+*.o
+*.a
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.d
+
+# IDE metadata and local settings
+.settings/
+.metadata/
+.vscode/
+.idea/
+*.launch
+*.user
+
+# Generated caches and temporary files
+*.tmp
+*.bak
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# Test output and captured logs
+tests/output/
+*.log
